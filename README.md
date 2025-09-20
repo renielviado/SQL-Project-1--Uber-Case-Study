@@ -23,8 +23,7 @@ of the patterns of cancellation and incompelted rides of uber drivers and custom
    - Overall, **Uber XL** demonstrates the **best performance** (highest completion rate, lowest driver cancellations), while **Go Sedan** performs the **worst performance** with the lowest completion rate and the highest driver cancellations.
      
   **Files**
-  - View [SQL](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql) query here and [table](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv) here.
-
+  - View [SQL query](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql) here and [table](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv) here.
 
 **2. Ranking and percentage of driver cancellation reason per vehicle type**  
    - Ranks and calculates the percentage of driver cancellation reasons per vehicle type.
