@@ -1,0 +1,32 @@
+﻿Auto,Change of plans,719,1,26.83
+Auto,Wrong Address,673,2,25.11
+Auto,Driver is not moving towards pickup location,661,3,24.66
+Auto,Driver asked to cancel,627,4,23.40
+Bike,Driver is not moving towards pickup location,403,1,25.59
+Bike,Wrong Address,395,2,25.08
+Bike,Change of plans,390,3,24.76
+Bike,Driver asked to cancel,387,4,24.57
+eBike,Wrong Address,192,1,26.56
+eBike,Driver asked to cancel,184,2,25.45
+eBike,Change of plans,180,3,24.90
+eBike,Driver is not moving towards pickup location,167,4,23.10
+Go Mini,Wrong Address,462,1,22.03
+Go Mini,AC is not working,457,2,21.79
+Go Mini,Driver asked to cancel,403,3,19.22
+Go Mini,Change of plans,388,4,18.50
+Go Mini,Driver is not moving towards pickup location,387,5,18.45
+Go Sedan,Driver is not moving towards pickup location,392,1,21.40
+Go Sedan,Change of plans,385,2,21.02
+Go Sedan,Driver asked to cancel,363,3,19.81
+Go Sedan,AC is not working,356,4,19.43
+Go Sedan,Wrong Address,336,5,18.34
+Premier Sedan,Driver asked to cancel,273,1,21.56
+Premier Sedan,AC is not working,265,2,20.93
+Premier Sedan,Driver is not moving towards pickup location,263,3,20.77
+Premier Sedan,Wrong Address,245,4,19.35
+Premier Sedan,Change of plans,220,5,17.38
+Uber XL,AC is not working,77,1,23.55
+Uber XL,Change of plans,71,2,21.71
+Uber XL,Driver is not moving towards pickup location,62,3,18.96
+Uber XL,Wrong Address,59,4,18.04
+Uber XL,Driver asked to cancel,58,5,17.74

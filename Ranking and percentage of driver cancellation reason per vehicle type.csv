@@ -1,0 +1,28 @@
+﻿Auto,Customer related issue,1720,1,25.89
+Auto,The customer was coughing/sick,1671,2,25.15
+Auto,More than permitted people in there,1632,3,24.57
+Auto,Personal & Car related issues,1620,4,24.39
+Bike,The customer was coughing/sick,1052,1,25.80
+Bike,Personal & Car related issues,1020,2,25.02
+Bike,Customer related issue,1017,3,24.94
+Bike,More than permitted people in there,988,4,24.23
+eBike,Customer related issue,485,1,25.43
+eBike,More than permitted people in there,481,2,25.22
+eBike,Personal & Car related issues,474,3,24.86
+eBike,The customer was coughing/sick,467,4,24.49
+Go Mini,Personal & Car related issues,1362,1,25.55
+Go Mini,The customer was coughing/sick,1354,2,25.40
+Go Mini,Customer related issue,1325,3,24.86
+Go Mini,More than permitted people in there,1289,4,24.18
+Go Sedan,Customer related issue,1290,1,25.64
+Go Sedan,The customer was coughing/sick,1258,2,25.00
+Go Sedan,More than permitted people in there,1252,3,24.89
+Go Sedan,Personal & Car related issues,1231,4,24.47
+Premier Sedan,More than permitted people in there,832,1,25.60
+Premier Sedan,Personal & Car related issues,818,2,25.17
+Premier Sedan,Customer related issue,812,3,24.98
+Premier Sedan,The customer was coughing/sick,788,4,24.25
+Uber XL,More than permitted people in there,212,1,27.82
+Uber XL,Personal & Car related issues,201,2,26.38
+Uber XL,Customer related issue,188,3,24.67
+Uber XL,The customer was coughing/sick,161,4,21.13

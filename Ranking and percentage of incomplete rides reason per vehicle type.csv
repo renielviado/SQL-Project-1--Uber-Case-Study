@@ -1,0 +1,21 @@
+﻿Auto,Customer Demand,778,1,34.42
+Auto,Other Issue,742,2,32.83
+Auto,Vehicle Breakdown,740,3,32.74
+Bike,Vehicle Breakdown,459,1,34.56
+Bike,Customer Demand,449,2,33.81
+Bike,Other Issue,420,3,31.63
+eBike,Vehicle Breakdown,219,1,34.76
+eBike,Customer Demand,210,2,33.33
+eBike,Other Issue,201,3,31.90
+Go Mini,Vehicle Breakdown,617,1,33.99
+Go Mini,Other Issue,604,2,33.28
+Go Mini,Customer Demand,594,3,32.73
+Go Sedan,Vehicle Breakdown,576,1,35.08
+Go Sedan,Customer Demand,563,2,34.29
+Go Sedan,Other Issue,503,3,30.63
+Premier Sedan,Other Issue,388,1,36.50
+Premier Sedan,Customer Demand,349,2,32.83
+Premier Sedan,Vehicle Breakdown,326,3,30.67
+Uber XL,Customer Demand,97,1,37.02
+Uber XL,Other Issue,90,2,34.35
+Uber XL,Vehicle Breakdown,75,3,28.63
