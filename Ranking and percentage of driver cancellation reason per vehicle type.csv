@@ -1,4 +1,5 @@
-﻿Auto,Customer related issue,1720,1,25.89
+Vehicle_Type,Driver Cancellation Reason,Count,Rank,% / Vehicle Type
+Auto,Customer related issue,1720,1,25.89
 Auto,The customer was coughing/sick,1671,2,25.15
 Auto,More than permitted people in there,1632,3,24.57
 Auto,Personal & Car related issues,1620,4,24.39
@@ -26,3 +27,4 @@ Uber XL,More than permitted people in there,212,1,27.82
 Uber XL,Personal & Car related issues,201,2,26.38
 Uber XL,Customer related issue,188,3,24.67
 Uber XL,The customer was coughing/sick,161,4,21.13
+
