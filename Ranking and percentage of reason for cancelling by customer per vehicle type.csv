@@ -1,4 +1,5 @@
-﻿Auto,Change of plans,719,1,26.83
+Vehicle_Type,Reason for Cancelling by Customer,Count,Rank,% / Vehicle Type
+Auto,Change of plans,719,1,26.83
 Auto,Wrong Address,673,2,25.11
 Auto,Driver is not moving towards pickup location,661,3,24.66
 Auto,Driver asked to cancel,627,4,23.40
@@ -30,3 +31,4 @@ Uber XL,Change of plans,71,2,21.71
 Uber XL,Driver is not moving towards pickup location,62,3,18.96
 Uber XL,Wrong Address,59,4,18.04
 Uber XL,Driver asked to cancel,58,5,17.74
+
