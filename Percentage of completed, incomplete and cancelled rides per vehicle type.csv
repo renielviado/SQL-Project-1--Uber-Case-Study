@@ -1,4 +1,4 @@
-﻿Vehicle_Type,Top 1 Reason of Customer,Count,Top 1 Reason of Driver,Count,Top 1 Reason for Incomplete Rides,Count
+﻿Vehicle_Type,[Top 1 Reason of Customer],Count,[Top 1 Reason of Driver],Count,[Top 1 Reason for Incomplete Rides],Count
 Auto,34738,23155,66.66,2680,7.71,6643,19.12,2260,6.51
 Go Mini,27791,18549,66.74,2097,7.55,5330,19.18,1815,6.53
 Go Sedan,25181,16676,66.22,1832,7.28,5031,19.98,1642,6.52
@@ -6,3 +6,4 @@ Bike,21014,14034,66.78,1575,7.50,4077,19.40,1328,6.32
 Premier Sedan,16831,11252,66.85,1266,7.52,3250,19.31,1063,6.32
 eBike,9811,6551,66.77,723,7.37,1907,19.44,630,6.42
 Uber XL,4134,2783,67.32,327,7.91,762,18.43,262,6.34
+
