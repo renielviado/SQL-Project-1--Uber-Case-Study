@@ -60,25 +60,25 @@ _The following points are assumptions based on the limited dataset and should no
 
 **1. Go Sedan**  
 Go Sedan has the highest driver cancellation rate, with reasons almost evenly distributed. A notable factor is **“personal and car-related issues.”** When cross-checked with incomplete rides, Go Sedan also ranks second, with **vehicle breakdown** as the leading cause.  
-**Assumption**: Many sedans may be of lower quality or insufficiently maintained. This could explain why some drivers cancel rides due to vehicle issues, while others continue operating and experience breakdowns during trips.  
+  - **Assumption**: Many sedans may be of lower quality or insufficiently maintained. This could explain why some drivers cancel rides due to vehicle issues, while others continue operating and experience breakdowns during trips.  
 
 **2. Auto**  
 Customer cancellation reasons are relatively evenly distributed, but when cross-checked with incomplete rides, a pattern emerges. The top cancellation reasons are **“change of plans”** and **“wrong address,”** while the leading cause of incomplete rides is **“customer demand.”**  
-**Assumption**: Because Autos are often used for short-distance travel, customers may find alternative transport options more convenient after booking, leading to *“change of plans”* cancellations. *“Wrong address”* may overlap with this behavior, as rushed or indecisive customers input incorrect locations and either cancel or adjust the ride. This reflects the uncertainty and flexibility common in short-distance trips.  
+  - **Assumption**: Because Autos are often used for short-distance travel, customers may find alternative transport options more convenient after booking, leading to *“change of plans”* cancellations. *“Wrong address”* may overlap with this behavior, as rushed or indecisive customers input incorrect locations and either cancel or adjust the ride. This reflects the uncertainty and flexibility common in short-distance trips.  
 In some cases, customers cancel before pickup, but others continue and then request changes mid-trip — which may explain why **“customer demand”** is the top reason for incomplete rides.  
 
 **3. Go Mini**  
 Go Mini records the **highest rate of incomplete rides.** While reasons are fairly evenly distributed, **vehicle breakdown** and **customer demand** stand out when compared with customer cancellation reasons.  
-**Assumption**: Similar to Go Sedan, many Go Mini drivers may neglect regular vehicle maintenance. This is suggested by the link between incomplete rides due to breakdowns and cancellations citing **AC not working.**  
+  - **Assumption**: Similar to Go Sedan, many Go Mini drivers may neglect regular vehicle maintenance. This is suggested by the link between incomplete rides due to breakdowns and cancellations citing **AC not working.**  
 Additionally, a pattern similar to Auto is observed, where **customer demand** overlaps with **wrong address.** This may indicate that customers frequently enter incorrect destinations or change drop-off locations mid-trip, contributing to cancellations or incomplete trips.  
 
 **4. Driver Cancellation**  
 Driver cancellations account for the largest share overall. The most common reasons across vehicle types are **customer-related issues, sick passengers,** and **more than permitted people in there.** Go Mini is the only exception, where **personal and car-related issues** lead.  
-**Assumption**: While driver cancellations are high, they may still be primarily driven by **customer behavior** rather than driver-specific factors.  
+  - **Assumption**: While driver cancellations are high, they may still be primarily driven by **customer behavior** rather than driver-specific factors.  
 
 **5. Vehicle Breakdown**  
 **Vehicle breakdown** is a recurring leading cause of incomplete rides across several vehicle types, including **Bike, eBike, Go Mini, and Go Sedan**. These categories belong to Uber’s **low- to mid-cost booking range.**  
-**Assumption**: Drivers in these segments may prioritize maximizing earnings by delaying or reducing vehicle maintenance to lower costs. This cost-cutting practice could contribute to the higher incidence of breakdowns and incomplete rides.  
+  - **Assumption**: Drivers in these segments may prioritize maximizing earnings by delaying or reducing vehicle maintenance to lower costs. This cost-cutting practice could contribute to the higher incidence of breakdowns and incomplete rides.  
 
 ## Recommendations (Conditional on Validation)  
 _The following recommendations are suggested only if further investigation by Uber confirms the assumptions outlined in the case. They should not be implemented without validation to avoid misdirected actions._  
