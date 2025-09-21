@@ -81,7 +81,7 @@ Driver cancellations account for the largest share overall. The most common reas
   - **Assumption**: Drivers in these segments may prioritize maximizing earnings by delaying or reducing vehicle maintenance to lower costs. This cost-cutting practice could contribute to the higher incidence of breakdowns and incomplete rides.  
 
 ## Recommendations (Conditional on Validation)  
-_The following recommendations are suggested only if further investigation by Uber confirms the assumptions outlined in the case. They should not be implemented without validation to avoid misdirected actions._  
+_These recommendations are high-level and should be considered only if further investigation by Uber confirms the assumptions outlined in this case. They are not intended for immediate implementation without validation._  
 
 **1. Vehicle Maintenance & Breakdowns**  
 - Enforce stricter vehicle inspection and mandatory service checks to reduce on-road failures.  
