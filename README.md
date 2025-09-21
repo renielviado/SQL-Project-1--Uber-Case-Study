@@ -21,12 +21,11 @@ of the patterns of cancellation and incompelted rides of uber drivers and custom
   - **Table** – [Percentage of completed, incomplete and cancelled rides per vehicle type.csv](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv)  
 
   
-**2. Ranking and percentage of driver cancellation reason per vehicle type**  
-   - Ranks and calculates the percentage of driver cancellation reasons per vehicle type.
-   - Top reason for cancellations across all vehicle types is **customer-related issues**, making up the highest share (e.g., 25.89% for Auto, 25.67% for Go Sedan, and 26.87% for Uber XL).
-   - **“The customer was coughing/sick”** is consistently among the **top 2 reasons** across most vehicle types (Auto 25.15%, Bike 25.80%, Go Mini 25.05%), showing health concerns as a major driver cancellation factor.
-   - **Uber XL** has the **lowest cancellation counts overall**, but its cancellations are more heavily concentrated in **personal & car-related issues (26.38%)** compared to other categories.
-   - View [SQL](https://github.com/renielviado/SQL-Projects/blob/9e2e5ead166ccbb4935f63f68387ec04ea6477fa/Ranking%20and%20percentage%20of%20driver%20cancellation%20reason%20per%20vehicle%20type.sql) query here and [table](https://github.com/renielviado/SQL-Projects/blob/9e2e5ead166ccbb4935f63f68387ec04ea6477fa/Ranking%20and%20percentage%20of%20driver%20cancellation%20reason%20per%20vehicle%20type.csv) here.
+**2. Ranking and percentage of driver cancellation reason per vehicle type**
+- Ranks and calculates the percentage of driver cancellation reasons per vehicle type.  
+  - **Query** – [Ranking and percentage of driver cancellation reason per vehicle type.sql](https://github.com/renielviado/SQL-Projects/blob/9e2e5ead166ccbb4935f63f68387ec04ea6477fa/Ranking%20and%20percentage%20of%20driver%20cancellation%20reason%20per%20vehicle%20type.sql)  
+  - **Table** – [Ranking and percentage of driver cancellation reason per vehicle type.csv](https://github.com/renielviado/SQL-Projects/blob/9e2e5ead166ccbb4935f63f68387ec04ea6477fa/Ranking%20and%20percentage%20of%20driver%20cancellation%20reason%20per%20vehicle%20type.csv) 
+
 
 **3. Ranking and percentage of incomplete rides reason per vehicle type**  
    - Ranks and calculates the percentage of reasons for incomplete rides per vehicle type.
