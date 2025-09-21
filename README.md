@@ -16,9 +16,10 @@ This is an additional analaysis that is not included in the data set dashboard w
 of the patterns of cancellation and incompelted rides of uber drivers and customers.
 
 **1. Percentage of completed, incomplete and cancelled rides per vehicle type**  
-   - Calculates the percentage of completed, incomplete, and cancelled rides per vehicle type.
-    - Query - [Percentage of completed, incomplete and cancelled rides per vehicle type.sql](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql)
-    - Table - [Percentage of completed, incomplete and cancelled rides per vehicle type.csv](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv)
+- Calculates the percentage of completed, incomplete, and cancelled rides per vehicle type.  
+  - **Query** – [Percentage of completed, incomplete and cancelled rides per vehicle type.sql](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql)  
+  - **Table** – [Percentage of completed, incomplete and cancelled rides per vehicle type.csv](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv)  
+
   
 **2. Ranking and percentage of driver cancellation reason per vehicle type**  
    - Ranks and calculates the percentage of driver cancellation reasons per vehicle type.
