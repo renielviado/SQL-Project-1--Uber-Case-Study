@@ -7,7 +7,8 @@ This project uses the [Uber Ride Analytics Dashboard dataset](https://www.kaggle
 - Extracted and explored raw data from Kaggle.  
 - Wrote **5 SQL queries** to analyze key patterns of the cancelled and incomplete rides of customer and drivers
   per vehicle type.  
-- Saved query results into **CSV files** for further analysis.  
+- Saved query results into **CSV files**.
+- Analysis, assumptions and recommendation where provided. 
 
 ## 🔍 SQL Queries Overview  
 
