@@ -17,15 +17,9 @@ of the patterns of cancellation and incompelted rides of uber drivers and custom
 
 **1. Percentage of completed, incomplete and cancelled rides per vehicle type**  
    - Calculates the percentage of completed, incomplete, and cancelled rides per vehicle type.
-
-  **Highlights**
-   - It shows that **Uber XL**, though having the fewest bookings, has the highest completion rate at **67.32%**, while **Go Sedan** has the lowest at **66.22%**.
-   - It also shows that drivers are more likely to cancel rides, especially **Go Sedan** drivers, compared to cancellations by customers or incomplete rides.
-   - Overall, **Uber XL** demonstrates the **best performance** (highest completion rate, lowest driver cancellations), while **Go Sedan** performs the **worst performance** with the lowest completion rate and the highest driver cancellations.
-     
-  **Files**
-  - View [SQL query](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql) here and [table](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv) here.
-
+    - Query - [Percentage of completed, incomplete and cancelled rides per vehicle type.sql](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.sql)
+    - Table - [Percentage of completed, incomplete and cancelled rides per vehicle type.csv](https://github.com/renielviado/SQL-Projects/blob/ba5649bb86f75bedac3659d77f78f3eb43b81685/Percentage%20of%20completed%2C%20incomplete%20and%20cancelled%20rides%20per%20vehicle%20type.csv)
+  
 **2. Ranking and percentage of driver cancellation reason per vehicle type**  
    - Ranks and calculates the percentage of driver cancellation reasons per vehicle type.
    - Top reason for cancellations across all vehicle types is **customer-related issues**, making up the highest share (e.g., 25.89% for Auto, 25.67% for Go Sedan, and 26.87% for Uber XL).
